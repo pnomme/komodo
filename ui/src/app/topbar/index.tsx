@@ -65,7 +65,7 @@ const Topbar = ({
           visibleFrom="md"
         >
           <Text fz="h2" fw="450" lts="0.1rem">
-            KOMODO
+            ANYCLOUD
           </Text>
         </Button>
       </Group>
