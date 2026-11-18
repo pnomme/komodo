@@ -1,5 +1,8 @@
 name: Build ANYCLOUD Komodo
 
+env:
+  KOMODO_VERSION: "2.3.4"
+
 on:
   push:
     branches:
