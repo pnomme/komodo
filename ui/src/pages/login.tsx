@@ -9,7 +9,7 @@ export default function Login(props: {
   return (
     <LoginPage
       {...props}
-      appName="KOMODO"
+      appName="ANYCLOUD"
       iconLink="/mogh-512x512.png"
       iconLinkAlt="moghtech"
       exampleConfigLink="https://github.com/moghtech/komodo/blob/main/config/core.config.toml"
